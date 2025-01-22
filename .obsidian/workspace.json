@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程质量.md",
+                "file": "编写代码习惯.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,18 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "想法提升.md",
+                "file": "编写代码习惯.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "873999bc7e6dc502",
+            "id": "f00eaaad4486284d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "数据库.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "数据库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "数据库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "数据库.md"
+              }
             }
           }
         ]
@@ -163,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "873999bc7e6dc502",
+  "active": "f00eaaad4486284d",
   "lastOpenFiles": [
+    "编写代码习惯.md",
+    "数据库.md",
     "想法提升.md",
-    "编程质量.md",
     "assets/Pasted image 20250121234005.png",
     "assets",
     "Pasted image 20250121233913.png"
